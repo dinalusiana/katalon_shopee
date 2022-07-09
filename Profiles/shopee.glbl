@@ -4,4 +4,19 @@
    <name>shopee</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://shopee.co.id/'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'7it2btdt2l'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Tesshopee123'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
