@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Data peta 2022_c7d1jI_1</name>
+   <tag></tag>
+   <elementGuidId>f3acbb67-ea79-4a96-8cbe-c57aa66ef4ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/aside/div/div/form/div/div/div[5]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.c7d1jI</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c7d1jI</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/aside[@class=&quot;ReDGyJ&quot;]/div[@class=&quot;_68lNMv undefined&quot;]/div[@class=&quot;gKd4LS&quot;]/form[1]/div[@class=&quot;lHCVqO&quot;]/div[@class=&quot;iWBSHn&quot;]/div[@class=&quot;_0f++jY&quot;]/div[@class=&quot;iETxgI&quot;]/div[@class=&quot;_6LcNth&quot;]/button[@class=&quot;c7d1jI&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/aside/div/div/form/div/div/div[5]/div/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/button</value>
+   </webElementXpaths>
+</WebElementEntity>
