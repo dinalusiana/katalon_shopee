@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbokButton</name>
+   <tag></tag>
+   <elementGuidId>dd691af0-f0df-4b49-98d6-ccda40f7aba6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div[3]/div/div[3]/div/div/div/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._3HHh5A > label.stardust-checkbox > div.stardust-checkbox__box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stardust-checkbox__box</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[2]/div[@class=&quot;_2LNMKb&quot;]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;_1nft6V&quot;]/div[@class=&quot;aCSbhb&quot;]/div[@class=&quot;_3ApheT -AIs4J&quot;]/div[@class=&quot;_2zUYwP&quot;]/div[@class=&quot;_3HHh5A&quot;]/label[@class=&quot;stardust-checkbox&quot;]/div[@class=&quot;stardust-checkbox__box&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div[3]/div/div[3]/div/div/div/label/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/div/div/label/div</value>
+   </webElementXpaths>
+</WebElementEntity>
