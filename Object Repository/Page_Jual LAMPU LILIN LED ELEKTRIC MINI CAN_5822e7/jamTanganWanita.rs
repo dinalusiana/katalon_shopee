@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>jamTanganWanita</name>
+   <tag></tag>
+   <elementGuidId>e8451444-971e-46c0-ad8c-a71524cacf62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.CYDprV</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CYDprV</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[2]/div[@class=&quot;XmiBHs&quot;]/div[1]/div[@class=&quot;page-product&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product-briefing flex card -Esc+w&quot;]/div[@class=&quot;KAHaP+&quot;]/div[@class=&quot;flex flex-column&quot;]/div[@class=&quot;hGIHhp&quot;]/div[@class=&quot;PZ3-ep&quot;]/div[@class=&quot;y1rHjh&quot;]/div[@class=&quot;CYDprV&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>
