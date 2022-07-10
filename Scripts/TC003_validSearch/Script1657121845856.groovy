@@ -17,9 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://shopee.co.id/')
+WebUI.openBrowser('https://shopee.co.id/')
 
 WebUI.click(findTestObject('Page_Shopee Indonesia  Jual Beli di Ponsel _2639c9/loginMenu'))
 
@@ -36,8 +34,6 @@ WebUI.click(findTestObject('Page_Login sekarang untuk mulai berbelanja _a6a865/l
 WebUI.click(findTestObject('Page_Shopee Indonesia  Jual Beli di Ponsel _2639c9/verifikasiLogin_denganOTP'))
 
 WebUI.click(findTestObject('Page_Shopee Indonesia  Jual Beli di Ponsel _2639c9/verifikasi_geserMelengkapiGambar'))
-
-WebUI.click(findTestObject('Object Repository/Page_Shopee Indonesia  Jual Beli di Ponsel _2639c9/button_Cara Lain'))
 
 WebUI.click(findTestObject('Page_Shopee Indonesia  Jual Beli di Ponsel _2639c9/mengirimVerifikasiLewatSMS'))
 
