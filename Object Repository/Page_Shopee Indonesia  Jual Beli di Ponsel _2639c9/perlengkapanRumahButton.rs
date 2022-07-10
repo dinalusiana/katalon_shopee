@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>perlengkapanRumahButton</name>
+   <tag></tag>
+   <elementGuidId>170b5acf-05e7-4488-9e1f-a12a01d513c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div[3]/div[2]/div/div/div/div[2]/div/div/ul/li[4]/div/a/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>-rN11Y edy5hG</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[2]/div[@class=&quot;xCao3k N2AB73&quot;]/div[@class=&quot;home-page&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;section-below-the-fold&quot;]/div[@class=&quot;section-category-list&quot;]/div[@class=&quot;home-category-list&quot;]/div[@class=&quot;shopee-header-section shopee-header-section--simple&quot;]/div[@class=&quot;shopee-header-section__content&quot;]/div[@class=&quot;image-carousel&quot;]/div[@class=&quot;image-carousel__item-list-wrapper&quot;]/ul[@class=&quot;image-carousel__item-list&quot;]/li[@class=&quot;image-carousel__item&quot;]/div[@class=&quot;home-category-list__group&quot;]/a[@class=&quot;home-category-list__category-grid&quot;]/div[@class=&quot;_1l+Pw-&quot;]/div[@class=&quot;H8mXLe&quot;]/div[@class=&quot;n-CE6j -rN11Y&quot;]/div[@class=&quot;-rN11Y edy5hG&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div[3]/div[2]/div/div/div/div[2]/div/div/ul/li[4]/div/a/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/a/div/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
