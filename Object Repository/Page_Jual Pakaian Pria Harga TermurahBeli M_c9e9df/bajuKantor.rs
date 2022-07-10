@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bajuKantor</name>
+   <tag></tag>
+   <elementGuidId>1e32a4c0-4ec0-47d6-9d52-42997c61d778</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div[3]/div/div[2]/div/div/ul/li/div/div/a/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.lazy-image__image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazy-image__image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;dYFPlI&quot;]/div[@class=&quot;pl7fDm&quot;]/div[@class=&quot;curated-collections container&quot;]/div[@class=&quot;shopee-header-section a-curated-collection-model shopee-header-section--simple&quot;]/div[@class=&quot;shopee-header-section__content&quot;]/div[@class=&quot;image-carousel&quot;]/div[@class=&quot;image-carousel__item-list-wrapper&quot;]/ul[@class=&quot;image-carousel__item-list&quot;]/li[@class=&quot;image-carousel__item&quot;]/div[@class=&quot;product-recommend-items__item-wrapper&quot;]/div[@class=&quot;collection-card&quot;]/a[@class=&quot;collection-card-link&quot;]/div[@class=&quot;collection-card__image&quot;]/div[@class=&quot;lazy-image__container collection-card__cover-img-background&quot;]/div[@class=&quot;lazy-image__image&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div[3]/div/div[2]/div/div/ul/li/div/div/a/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/ul/li/div/div/a/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
